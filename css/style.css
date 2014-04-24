@@ -166,7 +166,7 @@ table { background: #fff; }
 	display: inline-block;
 	margin-top: 7px;
 	font-size: 20px;
-	font-weight:600;
+	font-weight:400;
 	font-family: 'Open Sans Condensed', sans-serif;
 	color: #898989;
 }
@@ -278,7 +278,7 @@ table { background: #fff; }
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 18px;
 
-	text-align: center
+	text-align: center;
 }
 
 .header .navbar-default .navbar-nav>.open>a,
